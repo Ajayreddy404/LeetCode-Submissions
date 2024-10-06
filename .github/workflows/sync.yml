@@ -1,5 +1,8 @@
 name: Sync Leetcode
 
+permissions:
+  contents: write  # This allows the workflow to write to the repository
+
 on:
   workflow_dispatch:
   schedule:
