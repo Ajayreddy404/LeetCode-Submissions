@@ -1,0 +1,62 @@
+name: Sync Leetcode
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 1 * * *"  # This is 7:30 AM IST (UTC+5:30)
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Sync Leetcode Solutions
+        uses: joshcai/leetcode-sync@v1.5
+        with:
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: .
+          filter-duplicate-secs: true
+
+      - name: Create Question Metadata
+        run: |
+          cd leetcode-solutions  # Change to your destination folder
+          for file in *.cpp; do
+            # Check if the file is a .cpp file
+            if [[ -f "$file" ]]; then
+              # Extract and sanitize the question title from the file name
+              question_title="$(basename "$file" .cpp | xargs)"  # Trim whitespace
+              sanitized_title="$(echo "$question_title" | tr -cd '[:alnum:]-_')"  # Remove invalid characters
+
+              # Create the question folder
+              mkdir -p "$sanitized_title"  # Create a directory for the question if it doesn't exist
+              echo "Creating folder: $sanitized_title"
+
+              # Construct the question URL
+              question_url="https://leetcode.com/problems/${sanitized_title// /-}/"  # Convert spaces to hyphens
+
+              # Create or overwrite README.md in the question folder
+              echo "# $question_title" > "${sanitized_title}/README.md"
+              echo "## Question URL" >> "${sanitized_title}/README.md"
+              echo "[Link to LeetCode Question]($question_url)" >> "${sanitized_title}/README.md"
+              echo "## Answer" >> "${sanitized_title}/README.md"
+
+              # Append the answer code to README
+              echo "```cpp" >> "${sanitized_title}/README.md"
+              cat "$file" >> "${sanitized_title}/README.md"  # Append the answer code to README
+              echo "```" >> "${sanitized_title}/README.md"
+              echo "Created README.md for $sanitized_title with URL."
+            fi
+          done
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "your-email@example.com"  # Replace with your email
+          git config --local user.name "your-username"  # Replace with your GitHub username
+          git add .
+          git commit -m "Sync LeetCode solutions" || echo "No changes to commit"
+          git push origin main  # Adjust if your branch is different
