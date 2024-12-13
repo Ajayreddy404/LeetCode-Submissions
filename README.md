@@ -6,6 +6,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,10 +16,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Graph
 |  |
 | ------- |
@@ -43,4 +46,17 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+## Hash Table
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
