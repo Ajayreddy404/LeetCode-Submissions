@@ -55,8 +55,13 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Union Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
