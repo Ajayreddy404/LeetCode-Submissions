@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Hash Table
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -76,8 +78,17 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
