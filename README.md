@@ -9,6 +9,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
