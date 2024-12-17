@@ -18,21 +18,25 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
