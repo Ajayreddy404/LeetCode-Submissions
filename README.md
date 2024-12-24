@@ -66,11 +66,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
