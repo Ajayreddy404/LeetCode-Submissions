@@ -20,6 +20,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Union Find
 |  |
