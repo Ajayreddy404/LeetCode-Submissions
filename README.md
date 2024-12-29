@@ -16,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
