@@ -36,6 +36,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
@@ -84,6 +87,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -165,10 +169,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
