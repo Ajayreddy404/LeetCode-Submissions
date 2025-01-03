@@ -12,17 +12,34 @@
 class Solution {
 public:
 
-    void dfs(TreeNode* node, vector<int> &ans){
-        if(node==NULL)  return;
-        if(node->left!=NULL)    dfs(node->left, ans);
-        ans.push_back(node->val);
-        if(node->right!=NULL)   dfs(node->right, ans);
-        return;
-    }
-
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        dfs(root, ans);
-        return ans;
+        vector<int> arr;
+        TreeNode* node = root;
+        while(node!=NULL){
+            if(node->left==NULL){
+                arr.push_back(node->val);
+                node = node->right;
+            }else{
+                // find the rightmost node of the left subtree
+                TreeNode* nd1 = node->left;
+                while(nd1->right!=NULL && nd1->right!=node){
+                    nd1 = nd1->right;
+                }
+
+                if(nd1->right==node){
+                    // link is already present
+                    // remove the link and store the node val
+                    nd1->right = NULL;
+                    arr.push_back(node->val);
+                    node = node->right;
+                }else{
+                    // make a link
+                    nd1->right = node;
+                    node = node->left;
+                }
+                
+            }
+        }
+        return arr;
     }
 };
