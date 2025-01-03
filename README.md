@@ -29,6 +29,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
@@ -150,4 +151,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
