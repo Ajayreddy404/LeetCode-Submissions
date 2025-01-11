@@ -32,6 +32,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
@@ -177,6 +179,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -189,6 +192,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -199,4 +203,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
