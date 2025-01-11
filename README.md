@@ -188,6 +188,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -202,6 +203,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
@@ -212,4 +214,8 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
