@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -123,6 +124,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +182,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -195,6 +198,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -217,5 +221,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
