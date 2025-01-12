@@ -2,18 +2,18 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         // Manacher's algorith - bounding probelm
-        string T = "@#";
+        string T = "#";
         for(auto c: s){
             T += c;
             T += '#';
         }  
-        T += '&';
+        // T += '&';
         // cout<<T<<endl;
         int n2 = T.length();
         vector<int> P(n2, 1);
 
         int C = 0, R = 0;
-        for(int i=0; i<n2-1; i++){
+        for(int i=0; i<n2; i++){
             int iMirror = 2*C - i;
             if(i<R){    // already a bit of calc done
                 P[i] = min(R-i, P[iMirror]);
