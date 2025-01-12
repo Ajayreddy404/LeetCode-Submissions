@@ -8,7 +8,7 @@ public:
             T += '#';
         }  
         T += '&';
-        cout<<T<<endl;
+        // cout<<T<<endl;
         int n2 = T.length();
         vector<int> P(n2, 1);
 
@@ -34,16 +34,16 @@ public:
 
         int maxlen = 0, cen=0;
         for(int i=0; i<n2; i++){
-            cout<<i<<": "<<P[i]<<endl;
+            // cout<<i<<": "<<P[i]<<endl;
             if(P[i]>maxlen){
                 maxlen = P[i];
                 cen = i;
             }
         }
 
-        int st = cen - (maxlen-1) + 1;
-        int en = cen + maxlen - 1;
-        cout<<cen<<" "<<maxlen<<endl;
+        int st = cen - maxlen + 2;
+        int en = cen + maxlen - 2;
+        // cout<<cen<<" "<<maxlen<<endl;
         string ans = "";
         while(st<=en){
             ans += T[st];
