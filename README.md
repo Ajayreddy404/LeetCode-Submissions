@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -170,6 +171,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search
 |  |
