@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -249,6 +250,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
