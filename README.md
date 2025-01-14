@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -111,6 +112,7 @@
 | [0014-longest-common-prefix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
