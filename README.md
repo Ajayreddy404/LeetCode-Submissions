@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -253,10 +254,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
