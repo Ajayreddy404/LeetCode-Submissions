@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
@@ -83,6 +84,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
@@ -254,6 +257,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
