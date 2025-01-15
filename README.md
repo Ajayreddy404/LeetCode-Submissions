@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -39,6 +40,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0110-balanced-binary-tree) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -117,6 +120,7 @@
 | [0014-longest-common-prefix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -261,6 +265,7 @@
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
