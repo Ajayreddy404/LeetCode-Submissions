@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
