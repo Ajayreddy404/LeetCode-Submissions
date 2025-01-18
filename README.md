@@ -35,6 +35,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
@@ -126,6 +127,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
