@@ -23,6 +23,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+| [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -74,6 +75,7 @@
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
