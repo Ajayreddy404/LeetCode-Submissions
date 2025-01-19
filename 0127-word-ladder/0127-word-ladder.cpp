@@ -35,6 +35,7 @@ public:
                         if(taken.find(s)==taken.end() && words.find(s)!=words.end()){
                             // taken.insert(s);
                             qu.push(s);
+                            taken.insert(s);
                         }
                     }
                 }
