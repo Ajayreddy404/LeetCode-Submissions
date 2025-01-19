@@ -20,7 +20,7 @@ public:
             while(sz--){
                 string w = qu.front();
                 qu.pop();
-                taken.insert(w);
+                // taken.insert(w);
                 if(w==endWord){
                     return cnt;
                 }
