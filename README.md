@@ -69,6 +69,7 @@
 | [0801-is-graph-bipartite](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Graph
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0801-is-graph-bipartite](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Stack
 |  |
 | ------- |
@@ -310,4 +314,5 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 <!---LeetCode Topics End-->
