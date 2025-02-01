@@ -28,6 +28,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
+| [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
+| [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## Geometry
 |  |
 | ------- |
@@ -317,4 +320,8 @@
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+## Enumeration
+|  |
+| ------- |
+| [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 <!---LeetCode Topics End-->
