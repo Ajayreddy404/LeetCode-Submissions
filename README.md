@@ -21,6 +21,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +237,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -299,6 +302,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
