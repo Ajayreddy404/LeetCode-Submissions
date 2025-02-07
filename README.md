@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 ## Greedy
@@ -182,6 +184,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
