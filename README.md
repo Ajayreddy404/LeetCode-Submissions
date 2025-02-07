@@ -195,6 +195,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
@@ -238,6 +239,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
