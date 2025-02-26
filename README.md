@@ -32,6 +32,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## Dynamic Programming
 |  |
@@ -235,6 +236,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Stack
 |  |
