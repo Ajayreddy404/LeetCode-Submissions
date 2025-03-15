@@ -35,6 +35,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2353-maximum-score-of-a-node-sequence) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## Dynamic Programming
@@ -354,4 +355,16 @@
 | ------- |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
