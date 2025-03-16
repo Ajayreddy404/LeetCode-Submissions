@@ -5,7 +5,6 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
         int n = nums.length;
-        HashMap<Integer, Integer> hmp = new HashMap<>();
         for(int i=0; i<n; ){
             int j=i+1, k=n-1;
             while(j<k){
@@ -21,7 +20,7 @@ class Solution {
                     k = k1;
                 }
                 else{
-                    List<Integer> lst = new ArrayList<>(List.of(nums[i], nums[j], nums[k]));
+                    List<Integer> lst = new ArrayList<>(Arrays.asList(nums[i], nums[j], nums[k]));
                     result.add(lst);
                     int j1 = j;
                     while(j1<k && j1<n && nums[j1]==nums[j]) j1++;
