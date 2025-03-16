@@ -167,6 +167,7 @@
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## String
 |  |
@@ -185,6 +186,7 @@
 | [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Shortest Path
 |  |
 | ------- |
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
