@@ -33,6 +33,7 @@
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1036-rotting-oranges](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2353-maximum-score-of-a-node-sequence) |
@@ -57,6 +58,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
@@ -148,6 +150,7 @@
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2353-maximum-score-of-a-node-sequence) |
 ## Hash Table
@@ -163,6 +166,7 @@
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [3699-count-special-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/3699-count-special-subsequences) |
 ## String
 |  |
@@ -178,6 +182,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Union Find
@@ -197,6 +202,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
