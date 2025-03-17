@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
@@ -171,6 +173,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0976-minimum-area-rectangle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0976-minimum-area-rectangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
@@ -191,6 +194,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [1129-longest-string-chain](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -226,6 +230,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
@@ -396,4 +401,8 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
