@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -178,6 +181,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0079-word-search) |
