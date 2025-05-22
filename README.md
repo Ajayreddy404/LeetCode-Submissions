@@ -18,6 +18,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -144,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0778-reorganize-string) |
 ## Sorting
@@ -152,6 +154,7 @@
 | [0015-3sum](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0435-non-overlapping-intervals) |
@@ -192,6 +195,7 @@
 | [0127-word-ladder](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/Ajayreddy404/LeetCode-Submissions/tree/master/0721-accounts-merge) |
